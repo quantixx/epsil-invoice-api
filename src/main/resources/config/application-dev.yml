@@ -39,8 +39,8 @@ spring:
         serialization.indent_output: true
     datasource:
         type: com.zaxxer.hikari.HikariDataSource
-        url: jdbc:postgresql://localhost:5432/invoice
-        username: invoice
+        url: jdbc:postgresql://localhost:5432/invoiceapi
+        username: invoiceapi
         password:
     jpa:
         database-platform: io.github.jhipster.domain.util.FixedPostgreSQL82Dialect
@@ -52,7 +52,7 @@ spring:
             hibernate.cache.use_query_cache: false
             hibernate.generate_statistics: true
             hibernate.cache.region.factory_class: com.hazelcast.hibernate.HazelcastCacheRegionFactory
-            hibernate.cache.hazelcast.instance_name: invoice
+            hibernate.cache.hazelcast.instance_name: invoiceapi
             hibernate.cache.use_minimal_puts: true
             hibernate.cache.hazelcast.use_lite_member: true
     mail:
@@ -76,7 +76,7 @@ liquibase:
 
 # ===================================================================
 # To enable SSL, generate a certificate using:
-# keytool -genkey -alias invoice -storetype PKCS12 -keyalg RSA -keysize 2048 -keystore keystore.p12 -validity 3650
+# keytool -genkey -alias invoiceapi -storetype PKCS12 -keyalg RSA -keysize 2048 -keystore keystore.p12 -validity 3650
 #
 # You can also use Let's Encrypt:
 # https://maximilian-boehm.com/hp2121/Create-a-Java-Keystore-JKS-from-Let-s-Encrypt-Certificates.htm
@@ -89,7 +89,7 @@ liquibase:
 #        key-store: keystore.p12
 #        key-store-password: <your-password>
 #        key-store-type: PKCS12
-#        key-alias: invoice
+#        key-alias: invoiceapi
 # ===================================================================
 server:
     port: 8081
@@ -121,7 +121,7 @@ jhipster:
         # allow-credentials: true
         # max-age: 1800
     mail: # specific JHipster mail property, for standard properties see MailProperties
-        from: invoice@localhost
+        from: invoiceapi@localhost
         base-url: http://127.0.0.1:8081
     metrics: # DropWizard Metrics configuration, used by MetricsConfiguration
         jmx.enabled: true
@@ -129,7 +129,7 @@ jhipster:
             enabled: false
             host: localhost
             port: 2003
-            prefix: invoice
+            prefix: invoiceapi
         prometheus: # Use the "prometheus" Maven profile to have the Prometheus dependencies
             enabled: false
             endpoint: /prometheusMetrics

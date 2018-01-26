@@ -17,19 +17,19 @@ eureka:
     client:
         enabled: true
     instance:
-        appname: invoice
-        instanceId: invoice:${spring.application.instance-id:${random.value}}
+        appname: invoiceapi
+        instanceId: invoiceapi:${spring.application.instance-id:${random.value}}
 
 spring:
     application:
-        name: invoice
+        name: invoiceapi
     jackson:
         serialization.write_dates_as_timestamps: false
     cache:
         type: simple
     datasource:
         type: com.zaxxer.hikari.HikariDataSource
-        url: jdbc:h2:mem:invoice;DB_CLOSE_DELAY=-1
+        url: jdbc:h2:mem:invoiceapi;DB_CLOSE_DELAY=-1
         name:
         username:
         password:

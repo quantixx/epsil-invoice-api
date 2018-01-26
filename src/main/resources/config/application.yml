@@ -24,8 +24,8 @@ eureka:
         instance-info-replication-interval-seconds: 10
         registry-fetch-interval-seconds: 10
     instance:
-        appname: invoice
-        instanceId: invoice:${spring.application.instance-id:${random.value}}
+        appname: invoiceapi
+        instanceId: invoiceapi:${spring.application.instance-id:${random.value}}
         lease-renewal-interval-in-seconds: 5
         lease-expiration-duration-in-seconds: 10
         status-page-url-path: ${management.context-path}/info
@@ -65,7 +65,7 @@ management:
             enabled: false # When using the MailService, configure an SMTP server and set this to true
 spring:
     application:
-        name: invoice
+        name: invoiceapi
     jackson:
         serialization.write_dates_as_timestamps: false
     jpa:
@@ -150,11 +150,11 @@ jhipster:
         #allow-credentials: true
         #max-age: 1800
     mail:
-        from: invoice@localhost
+        from: invoiceapi@localhost
     swagger:
         default-include-pattern: /api/.*
-        title: invoice API
-        description: invoice API documentation
+        title: invoiceapi API
+        description: invoiceapi API documentation
         version: 0.0.1
         terms-of-service-url:
         contact-name:

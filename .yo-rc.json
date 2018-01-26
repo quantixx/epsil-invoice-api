@@ -5,7 +5,7 @@
       "nativeLanguage": "en"
     },
     "jhipsterVersion": "4.13.3",
-    "baseName": "invoice",
+    "baseName": "invoiceapi",
     "packageName": "io.epsil.invoice",
     "packageFolder": "io/epsil/invoice",
     "serverPort": "8081",

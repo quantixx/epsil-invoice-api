@@ -1,11 +1,11 @@
 version: '2'
 services:
-    invoice-postgresql:
+    invoiceapi-postgresql:
         image: postgres:9.6.5
         # volumes:
-        #     - ~/volumes/jhipster/invoice/postgresql/:/var/lib/postgresql/data/
+        #     - ~/volumes/jhipster/invoiceapi/postgresql/:/var/lib/postgresql/data/
         environment:
-            - POSTGRES_USER=invoice
+            - POSTGRES_USER=invoiceapi
             - POSTGRES_PASSWORD=
         ports:
             - 5432:5432

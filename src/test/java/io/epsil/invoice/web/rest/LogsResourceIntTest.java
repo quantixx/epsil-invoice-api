@@ -1,6 +1,6 @@
 package io.epsil.invoice.web.rest;
 
-import io.epsil.invoice.InvoiceApp;
+import io.epsil.invoice.InvoiceapiApp;
 import io.epsil.invoice.web.rest.vm.LoggerVM;
 import ch.qos.logback.classic.AsyncAppender;
 import ch.qos.logback.classic.LoggerContext;
@@ -27,7 +27,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
  * @see LogsResource
  */
 @RunWith(SpringRunner.class)
-@SpringBootTest(classes = InvoiceApp.class)
+@SpringBootTest(classes = InvoiceapiApp.class)
 public class LogsResourceIntTest {
 
     private MockMvc restLogsMockMvc;

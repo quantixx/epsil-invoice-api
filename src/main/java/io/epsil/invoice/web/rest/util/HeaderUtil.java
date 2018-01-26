@@ -11,15 +11,15 @@ public final class HeaderUtil {
 
     private static final Logger log = LoggerFactory.getLogger(HeaderUtil.class);
 
-    private static final String APPLICATION_NAME = "invoiceApp";
+    private static final String APPLICATION_NAME = "invoiceapiApp";
 
     private HeaderUtil() {
     }
 
     public static HttpHeaders createAlert(String message, String param) {
         HttpHeaders headers = new HttpHeaders();
-        headers.add("X-invoiceApp-alert", message);
-        headers.add("X-invoiceApp-params", param);
+        headers.add("X-invoiceapiApp-alert", message);
+        headers.add("X-invoiceapiApp-params", param);
         return headers;
     }
 
@@ -38,8 +38,8 @@ public final class HeaderUtil {
     public static HttpHeaders createFailureAlert(String entityName, String errorKey, String defaultMessage) {
         log.error("Entity processing failed, {}", defaultMessage);
         HttpHeaders headers = new HttpHeaders();
-        headers.add("X-invoiceApp-error", "error." + errorKey);
-        headers.add("X-invoiceApp-params", entityName);
+        headers.add("X-invoiceapiApp-error", "error." + errorKey);
+        headers.add("X-invoiceapiApp-params", entityName);
         return headers;
     }
 }

@@ -1,7 +1,7 @@
 package io.epsil.invoice.web.rest;
 
 import io.github.jhipster.config.JHipsterProperties;
-import io.epsil.invoice.InvoiceApp;
+import io.epsil.invoice.InvoiceapiApp;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -25,7 +25,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
  * @see ProfileInfoResource
  **/
 @RunWith(SpringRunner.class)
-@SpringBootTest(classes = InvoiceApp.class)
+@SpringBootTest(classes = InvoiceapiApp.class)
 public class ProfileInfoResourceIntTest {
 
     @Mock

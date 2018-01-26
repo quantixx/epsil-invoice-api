@@ -1,6 +1,6 @@
 package io.epsil.invoice.web.rest.errors;
 
-import io.epsil.invoice.InvoiceApp;
+import io.epsil.invoice.InvoiceapiApp;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -25,7 +25,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
  * @see ExceptionTranslator
  */
 @RunWith(SpringRunner.class)
-@SpringBootTest(classes = InvoiceApp.class)
+@SpringBootTest(classes = InvoiceapiApp.class)
 public class ExceptionTranslatorIntTest {
 
     @Autowired

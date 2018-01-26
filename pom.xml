@@ -3,10 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.epsil.invoice</groupId>
-    <artifactId>invoice</artifactId>
+    <artifactId>invoiceapi</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>Invoice</name>
+    <name>Invoiceapi</name>
 
     <properties>
         <!-- Build properties -->
@@ -558,9 +558,9 @@
                     <changeLogFile>src/main/resources/config/liquibase/master.xml</changeLogFile>
                     <diffChangeLogFile>src/main/resources/config/liquibase/changelog/${maven.build.timestamp}_changelog.xml</diffChangeLogFile>
                     <driver>org.postgresql.Driver</driver>
-                    <url>jdbc:postgresql://localhost:5432/invoice</url>
+                    <url>jdbc:postgresql://localhost:5432/invoiceapi</url>
                     <defaultSchemaName></defaultSchemaName>
-                    <username>invoice</username>
+                    <username>invoiceapi</username>
                     <password></password>
                     <referenceUrl>hibernate:spring:io.epsil.invoice.domain?dialect=org.hibernate.dialect.PostgreSQL82Dialect&amp;hibernate.physical_naming_strategy=org.springframework.boot.orm.jpa.hibernate.SpringPhysicalNamingStrategy&amp;hibernate.implicit_naming_strategy=org.springframework.boot.orm.jpa.hibernate.SpringImplicitNamingStrategy</referenceUrl>
                     <verbose>true</verbose>
@@ -628,7 +628,7 @@
                 </executions>
                 -->
                 <configuration>
-                    <repository>invoice</repository>
+                    <repository>invoiceapi</repository>
                     <tag>latest</tag>
                     <contextDirectory>${project.build.directory}</contextDirectory>
                 </configuration>

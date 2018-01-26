@@ -26,18 +26,18 @@ import java.util.Collection;
 @EnableAutoConfiguration(exclude = {MetricFilterAutoConfiguration.class, MetricRepositoryAutoConfiguration.class})
 @EnableConfigurationProperties({LiquibaseProperties.class, ApplicationProperties.class})
 @EnableDiscoveryClient
-public class InvoiceApp {
+public class InvoiceapiApp {
 
-    private static final Logger log = LoggerFactory.getLogger(InvoiceApp.class);
+    private static final Logger log = LoggerFactory.getLogger(InvoiceapiApp.class);
 
     private final Environment env;
 
-    public InvoiceApp(Environment env) {
+    public InvoiceapiApp(Environment env) {
         this.env = env;
     }
 
     /**
-     * Initializes invoice.
+     * Initializes invoiceapi.
      * <p>
      * Spring profiles can be configured with a program arguments --spring.profiles.active=your-active-profile
      * <p>
@@ -63,7 +63,7 @@ public class InvoiceApp {
      * @throws UnknownHostException if the local host name could not be resolved into an address
      */
     public static void main(String[] args) throws UnknownHostException {
-        SpringApplication app = new SpringApplication(InvoiceApp.class);
+        SpringApplication app = new SpringApplication(InvoiceapiApp.class);
         DefaultProfileUtil.addDefaultProfile(app);
         Environment env = app.run(args).getEnvironment();
         String protocol = "http";
