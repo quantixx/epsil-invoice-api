@@ -57,7 +57,7 @@ To stop it and remove the container, run:
 You can also fully dockerize your application and all the services that it depends on.
 To achieve this, first build a docker image of your app by running:
 
-    ./mvnw verify -Pprod dockerfile:build
+    ./mvnw verify -Pprod -Dmaven.test.skip=true dockerfile:build
 
 Then run:
 
