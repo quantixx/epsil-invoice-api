@@ -23,6 +23,38 @@
                   file="config/liquibase/data/inv_currency.csv"
                   tableName="inv_currency">
         </loadData>
+        <loadData encoding="UTF-8" separator=";"
+                  file="config/liquibase/data/inv_address.csv"
+                  tableName="inv_address">
+        </loadData>
+        <loadData encoding="UTF-8" separator=";"
+                  file="config/liquibase/data/inv_contact.csv"
+                  tableName="inv_contact">
+        </loadData>
+        <loadData encoding="UTF-8" separator=";"
+                  file="config/liquibase/data/inv_bank.csv"
+                  tableName="inv_bank">
+        </loadData>
+        <loadData encoding="UTF-8" separator=";"
+                  file="config/liquibase/data/inv_tenant.csv"
+                  tableName="inv_tenant">
+        </loadData>
+        <loadData encoding="UTF-8" separator=";"
+                  file="config/liquibase/data/inv_event.csv"
+                  tableName="inv_event">
+        </loadData>
+        <loadData encoding="UTF-8" separator=";"
+                  file="config/liquibase/data/inv_organisation.csv"
+                  tableName="inv_organisation">
+        </loadData>
+        <loadData encoding="UTF-8" separator=";"
+                  file="config/liquibase/data/inv_family.csv"
+                  tableName="inv_family">
+        </loadData>
+        <loadData encoding="UTF-8" separator=";"
+                  file="config/liquibase/data/inv_invoice_def.csv"
+                  tableName="inv_invoice_def">
+        </loadData>
     </changeSet>
 
 </databaseChangeLog>

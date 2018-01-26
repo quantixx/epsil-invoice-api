@@ -1,0 +1,2 @@
+id;slug;name;business_identification;corporate_name;vat_identification;activated;created_on;address_id;contact_id;tenant_id
+1201;oak;Oak;AU 1234 0976 8765;Oak Incorporation;AU3456789;true;null;953;1052;1101

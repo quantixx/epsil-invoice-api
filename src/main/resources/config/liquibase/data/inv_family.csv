@@ -1,0 +1,4 @@
+id;slug;name;description;tenant_id
+1251;spn;Sponsor;This family of invoices is only used for Sponsors;1101
+1252;reg;Registration;This family of invoices is only used for Registration;1101
+1253;other;Other;This family of invoices is used for all invoices except Sponsors and Registration;1101

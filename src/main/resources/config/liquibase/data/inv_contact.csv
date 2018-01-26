@@ -1,0 +1,3 @@
+id;first_name;last_name;activated;email;phone_area;phone_number
+1051;Peter;Paul;true;peter@paul.com;+33;6123123123
+1052;John;Atoak;true;john@oak.com;null;null

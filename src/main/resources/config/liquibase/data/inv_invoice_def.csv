@@ -1,0 +1,2 @@
+id;title;description;doc_type;vat_rate;terms;penalties;family_id;language_id;tenant_id
+1301;Invoice definition for common invoices;null;INVOICE;20;30 days after the end of the mon;20% penalties after 30 days of not paying the invoice;1251;17;1101
