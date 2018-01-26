@@ -558,7 +558,7 @@
                     <changeLogFile>src/main/resources/config/liquibase/master.xml</changeLogFile>
                     <diffChangeLogFile>src/main/resources/config/liquibase/changelog/${maven.build.timestamp}_changelog.xml</diffChangeLogFile>
                     <driver>org.postgresql.Driver</driver>
-                    <url>jdbc:postgresql://localhost:5432/invoiceapi</url>
+                    <url>jdbc:postgresql://localhost:5433/invoiceapi</url>
                     <defaultSchemaName></defaultSchemaName>
                     <username>invoiceapi</username>
                     <password></password>
