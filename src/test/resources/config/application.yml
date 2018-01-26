@@ -88,9 +88,12 @@ jhipster:
             host: localhost
             port: 5000
             queue-size: 512
-    mail:
-        from: test@localhost
-        base-url: http://127.0.0.1:8080
+    security:
+        authentication:
+            jwt:
+                secret: 88f7048eb63814d8ec6b518676a4bfd9fae90ea6
+                # Token is valid 24 hours
+                token-validity-in-seconds: 86400
     metrics: # DropWizard Metrics configuration, used by MetricsConfiguration
         jmx.enabled: true
         logs: # Reports Dropwizard metrics in the logs
