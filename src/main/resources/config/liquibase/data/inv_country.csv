@@ -1,0 +1,248 @@
+id;iso_2;iso_3;m_49;name;official_name_en;official_name_fr;dial;continent;tld;flag_32;flag_128;latitude;longitude;zoom
+1;AD;AND;20;Andorra;Andorra;Andorre;376;EU;.ad;AD-32.png;AD-128.png;42.54057088;1.55201340;11
+2;AE;ARE;784;United Arab Emirates;United Arab Emirates;Émirats arabes unis;971;AS;.ae;AE-32.png;AE-128.png;24.64324405;53.62261227;7
+3;AF;AFG;4;Afghanistan;Afghanistan;Afghanistan;93;AS;.af;AF-32.png;AF-128.png;33.98299275;66.39159363;6
+4;AG;ATG;28;Antigua & Barbuda;Antigua and Barbuda;Antigua-et-Barbuda;1-268;NA;.ag;AG-32.png;AG-128.png;17.48060423;-61.42014426;9
+5;AI;AIA;660;Anguilla;Anguilla;Anguilla;1-264;NA;.ai;AI-32.png;AI-128.png;18.22053521;-63.06861300;12
+6;AL;ALB;8;Albania;Albania;Albanie;355;EU;.al;AL-32.png;AL-128.png;41.00017358;19.87170014;7
+7;AM;ARM;51;Armenia;Armenia;Arménie;374;AS;.am;AM-32.png;AM-128.png;40.13475528;45.01072318;7
+8;AO;AGO;24;Angola;Angola;Angola;244;AF;.ao;AO-32.png;AO-128.png;-12.16469683;16.70933622;6
+9;AR;ARG;32;Argentina;Argentina;Argentine;54;SA;.ar;AR-32.png;AR-128.png;-38.01529308;-64.97897469;4
+10;AS;ASM;16;American Samoa;American Samoa;Samoa américaines;1-684;OC;.as;AS-32.png;AS-128.png;-14.30634641;-170.69501750;11
+11;AT;AUT;40;Austria;Austria;Autriche;43;EU;.at;AT-32.png;AT-128.png;47.63125476;13.18776731;7
+12;AU;AUS;36;Australia;Australia;Australie;61;OC;.au;AU-32.png;AU-128.png;-26.29594646;133.55540944;4
+13;AW;ABW;533;Aruba;Aruba;Aruba;297;NA;.aw;AW-32.png;AW-128.png;12.52109661;-69.96833800;12
+14;AZ;AZE;31;Azerbaijan;Azerbaijan;Azerbaïdjan;994;AS;.az;AZ-32.png;AZ-128.png;40.35321757;47.46706372;7
+15;BA;BIH;70;Bosnia;Bosnia and Herzegovina;Bosnie-Herzégovine;387;EU;.ba;BA-32.png;BA-128.png;44.00040856;17.81640910;7
+16;BB;BRB;52;Barbados;Barbados;Barbade;1-246;NA;.bb;BB-32.png;BB-128.png;13.19383077;-59.54319600;11
+17;BD;BGD;50;Bangladesh;Bangladesh;Bangladesh;880;AS;.bd;BD-32.png;BD-128.png;24.08273251;90.49915527;7
+18;BE;BEL;56;Belgium;Belgium;Belgique;32;EU;.be;BE-32.png;BE-128.png;50.49593874;4.46993600;8
+19;BF;BFA;854;Burkina Faso;Burkina Faso;Burkina Faso;226;AF;.bf;BF-32.png;BF-128.png;12.22492458;-1.56159100;7
+20;BG;BGR;100;Bulgaria;Bulgaria;Bulgarie;359;EU;.bg;BG-32.png;BG-128.png;42.70160678;25.48583200;7
+21;BH;BHR;48;Bahrain;Bahrain;Bahreïn;973;AS;.bh;BH-32.png;BH-128.png;25.90740996;50.65932354;9
+22;BI;BDI;108;Burundi;Burundi;Burundi;257;AF;.bi;BI-32.png;BI-128.png;-3.40499707;29.88592902;8
+23;BJ;BEN;204;Benin;Benin;Bénin;229;AF;.bj;BJ-32.png;BJ-128.png;9.37180859;2.29386134;7
+24;BL;BLM;652;St. Barthélemy;Saint Barthélemy;Saint-Barthélemy;590;NA;.gp;BL-32.png;BL-128.png;17.90042417;-62.83376215;13
+25;BM;BMU;60;Bermuda;Bermuda;Bermudes;1-441;NA;.bm;BM-32.png;BM-128.png;32.31995785;-64.76182765;12
+26;BN;BRN;96;Brunei;Brunei Darussalam;Brunéi Darussalam;673;AS;.bn;BN-32.png;BN-128.png;4.54189364;114.60132823;9
+27;BO;BOL;68;Bolivia;Bolivia (Plurinational State of);Bolivie (État plurinational de);591;SA;.bo;BO-32.png;BO-128.png;-16.74518128;-65.19265691;6
+28;BQ;BES;535;Caribbean Netherlands;"Bonaire; Sint Eustatius and Saba";"Bonaire; Saint-Eustache et Saba";599;NA;.bq;BQ-32.png;BQ-128.png;12.17229702;-68.28831170;11
+29;BR;BRA;76;Brazil;Brazil;Brésil;55;SA;.br;BR-32.png;BR-128.png;-11.80965046;-53.33152600;4
+30;BS;BHS;44;Bahamas;Bahamas;Bahamas;1-242;NA;.bs;BS-32.png;BS-128.png;24.45991732;-77.68192453;7
+31;BT;BTN;64;Bhutan;Bhutan;Bhoutan;975;AS;.bt;BT-32.png;BT-128.png;27.50752756;90.43360300;8
+32;BV;BVT;74;Bouvet Island;;;47;AN;.bv;BV-32.png;BV-128.png;-54.42316906;3.41319600;12
+33;BW;BWA;72;Botswana;Botswana;Botswana;267;AF;.bw;BW-32.png;BW-128.png;-22.18279485;24.22344422;6
+34;BY;BLR;112;Belarus;Belarus;Bélarus;375;EU;.by;BY-32.png;BY-128.png;53.58628747;27.95338900;6
+35;BZ;BLZ;84;Belize;Belize;Belize;501;NA;.bz;BZ-32.png;BZ-128.png;17.21153631;-88.01424956;8
+36;CA;CAN;124;Canada;Canada;Canada;1;NA;.ca;CA-32.png;CA-128.png;60.36196817;-106.69833150;4
+37;CC;CCK;166;Cocos (Keeling) Islands;;;61;AS;.cc;CC-32.png;CC-128.png;-12.12890685;96.84689104;12
+38;CD;COD;180;Congo - Kinshasa;Democratic Republic of the Congo;République démocratique du Congo;243;AF;.cd;CD-32.png;CD-128.png;-4.05373938;23.01110741;5
+39;CF;CAF;140;Central African Republic;Central African Republic;République centrafricaine;236;AF;.cf;CF-32.png;CF-128.png;6.82541830;20.64281514;6
+40;CG;COG;178;Congo - Brazzaville;Congo;Congo;242;AF;.cg;CG-32.png;CG-128.png;-0.68967806;15.69033190;6
+41;CH;CHE;756;Switzerland;Switzerland;Suisse;41;EU;.ch;CH-32.png;CH-128.png;46.81010721;8.22751200;8
+42;CI;CIV;384;Côte d’Ivoire;Côte d'Ivoire;Côte d'Ivoire;225;AF;.ci;CI-32.png;CI-128.png;7.59684148;-5.49214636;7
+43;CK;COK;184;Cook Islands;Cook Islands;Îles Cook;682;OC;.ck;CK-32.png;CK-128.png;-21.23673066;-159.77766900;13
+44;CL;CHL;152;Chile;Chile;Chili;56;SA;.cl;CL-32.png;CL-128.png;-38.01760790;-71.40014474;4
+45;CM;CMR;120;Cameroon;Cameroon;Cameroun;237;AF;.cm;CM-32.png;CM-128.png;7.38622543;12.72825915;6
+46;CN;CHN;156;China;China;Chine;86;AS;.cn;CN-32.png;CN-128.png;36.71457440;103.55819197;4
+47;CO;COL;170;Colombia;Colombia;Colombie;57;SA;.co;CO-32.png;CO-128.png;3.68182320;-73.53927436;5
+48;CR;CRI;188;Costa Rica;Costa Rica;Costa Rica;506;NA;.cr;CR-32.png;CR-128.png;9.98427463;-84.09949534;8
+49;CU;CUB;192;Cuba;Cuba;Cuba;53;NA;.cu;CU-32.png;CU-128.png;21.54513189;-79.00064743;6
+50;CV;CPV;132;Cape Verde;Cabo Verde;Cabo Verde;238;AF;.cv;CV-32.png;CV-128.png;15.11988711;-23.60517010;10
+51;CW;CUW;531;Curaçao;Curaçao;Curaçao;599;NA;.cw;CW-32.png;CW-128.png;12.20710309;-69.02160369;11
+52;CX;CXR;162;Christmas Island;;;61;AS;.cx;CX-32.png;CX-128.png;-10.49170619;105.68083796;11
+53;CY;CYP;196;Cyprus;Cyprus;Chypre;357;EU;.cy;CY-32.png;CY-128.png;35.12450768;33.42986100;9
+54;CZ;CZE;203;Czech Republic;Czechia;Tchéquie;420;EU;.cz;CZ-32.png;CZ-128.png;49.76026136;15.53888197;7
+55;DE;DEU;276;Germany;Germany;Allemagne;49;EU;.de;DE-32.png;DE-128.png;50.82871201;10.97887975;6
+56;DJ;DJI;262;Djibouti;Djibouti;Djibouti;253;AF;.dj;DJ-32.png;DJ-128.png;11.75959257;42.65344839;8
+57;DK;DNK;208;Denmark;Denmark;Danemark;45;EU;.dk;DK-32.png;DK-128.png;54.71794021;9.41938953;6
+58;DM;DMA;212;Dominica;Dominica;Dominique;1-767;NA;.dm;DM-32.png;DM-128.png;15.41473963;-61.37097400;10
+59;DO;DOM;214;Dominican Republic;Dominican Republic;République dominicaine;1-809;NA;.do;DO-32.png;DO-128.png;18.73076761;-70.16264900;8
+60;DZ;DZA;12;Algeria;Algeria;Algérie;213;AF;.dz;DZ-32.png;DZ-128.png;27.89861690;3.19771194;5
+61;EC;ECU;218;Ecuador;Ecuador;Équateur;593;SA;.ec;EC-32.png;EC-128.png;-1.22919037;-78.55693916;6
+62;EE;EST;233;Estonia;Estonia;Estonie;372;EU;.ee;EE-32.png;EE-128.png;58.74041141;25.38165099;7
+63;EG;EGY;818;Egypt;Egypt;Égypte;20;AF;.eg;EG-32.png;EG-128.png;26.71650873;30.80250000;6
+64;EH;ESH;732;Western Sahara;Western Sahara;Sahara occidental;212;AF;.eh;EH-32.png;EH-128.png;24.79324356;-13.67683563;6
+65;ER;ERI;232;Eritrea;Eritrea;Érythrée;291;AF;.er;ER-32.png;ER-128.png;15.21227764;39.61204792;7
+66;ES;ESP;724;Spain;Spain;Espagne;34;EU;.es;ES-32.png;ES-128.png;39.87299401;-3.67089492;6
+67;ET;ETH;231;Ethiopia;Ethiopia;Éthiopie;251;AF;.et;ET-32.png;ET-128.png;9.10727589;39.84148164;6
+68;FI;FIN;246;Finland;Finland;Finlande;358;EU;.fi;FI-32.png;FI-128.png;64.69610892;26.36339137;5
+69;FJ;FJI;242;Fiji;Fiji;Fidji;679;OC;.fj;FJ-32.png;FJ-128.png;-17.71219757;178.06503600;9
+70;FK;FLK;238;Falkland Islands;Falkland Islands (Malvinas);Îles Falkland (Malvinas);500;SA;.fk;FK-32.png;FK-128.png;-51.78838251;-59.52361100;8
+71;FM;FSM;583;Micronesia;Micronesia (Federated States of);Micronésie (États fédérés de);691;OC;.fm;FM-32.png;FM-128.png;6.88747377;158.21507170;12
+72;FO;FRO;234;Faroe Islands;Faeroe Islands;Îles Féroé;298;EU;.fo;FO-32.png;FO-128.png;61.88590482;-6.91180400;8
+73;FR;FRA;250;France;France;France;33;EU;.fr;FR-32.png;FR-128.png;46.48372145;2.60926281;6
+74;GA;GAB;266;Gabon;Gabon;Gabon;241;AF;.ga;GA-32.png;GA-128.png;-0.43426435;11.43916591;7
+75;GB;GBR;826;UK;United Kingdom of Great Britain and Northern Ireland;Royaume-Uni de Grande-Bretagne et d'Irlande du Nord;44;EU;.uk;GB-32.png;GB-128.png;53.36540813;-2.72184767;6
+76;GD;GRD;308;Grenada;Grenada;Grenade;1-473;NA;.gd;GD-32.png;GD-128.png;12.11644807;-61.67899400;11
+77;GE;GEO;268;Georgia;Georgia;Géorgie;995;AS;.ge;GE-32.png;GE-128.png;41.82754301;44.17329916;7
+78;GF;GUF;254;French Guiana;French Guiana;Guyane française;594;SA;.gf;GF-32.png;GF-128.png;4.01114381;-52.97746057;7
+79;GG;GGY;831;Guernsey;Guernsey;Guernesey;44;EU;.gg;GG-32.png;GG-128.png;49.46565975;-2.58527200;12
+80;GH;GHA;288;Ghana;Ghana;Ghana;233;AF;.gh;GH-32.png;GH-128.png;7.69154199;-1.29234904;7
+81;GI;GIB;292;Gibraltar;Gibraltar;Gibraltar;350;EU;.gi;GI-32.png;GI-128.png;36.14864641;-5.34404779;12
+82;GL;GRL;304;Greenland;Greenland;Groenland;299;NA;.gl;GL-32.png;GL-128.png;71.42932629;-34.38651956;3
+83;GM;GMB;270;Gambia;Gambia;Gambie;220;AF;.gm;GM-32.png;GM-128.png;13.15921146;-15.35956748;8
+84;GN;GIN;324;Guinea;Guinea;Guinée;224;AF;.gn;GN-32.png;GN-128.png;9.94301472;-11.31711839;7
+85;GP;GLP;312;Guadeloupe;Guadeloupe;Guadeloupe;590;NA;.gp;GP-32.png;GP-128.png;16.26472785;-61.55099400;10
+86;GQ;GNQ;226;Equatorial Guinea;Equatorial Guinea;Guinée équatoriale;240;AF;.gq;GQ-32.png;GQ-128.png;1.65068442;10.26789700;9
+87;GR;GRC;300;Greece;Greece;Grèce;30;EU;.gr;GR-32.png;GR-128.png;38.52254746;24.53794505;6
+88;GS;SGS;239;South Georgia & South Sandwich Islands;;;500;AN;.gs;GS-32.png;GS-128.png;-54.38130284;-36.67305304;9
+89;GT;GTM;320;Guatemala;Guatemala;Guatemala;502;NA;.gt;GT-32.png;GT-128.png;15.72598421;-89.96707712;7
+90;GU;GUM;316;Guam;Guam;Guam;1-671;OC;.gu;GU-32.png;GU-128.png;13.44410137;144.80747791;10
+91;GW;GNB;624;Guinea-Bissau;Guinea-Bissau;Guinée-Bissau;245;AF;.gw;GW-32.png;GW-128.png;11.80050682;-15.18040700;8
+92;GY;GUY;328;Guyana;Guyana;Guyana;592;SA;.gy;GY-32.png;GY-128.png;4.47957059;-58.72692293;6
+93;HK;HKG;344;Hong Kong;"China; Hong Kong Special Administrative Region";"Chine; région administrative spéciale de Hong Kong";852;AS;.hk;HK-32.png;HK-128.png;22.33728531;114.14657786;11
+94;HM;HMD;334;Heard & McDonald Islands;;;672;AN;.hm;HM-32.png;HM-128.png;-53.08168847;73.50415800;11
+95;HN;HND;340;Honduras;Honduras;Honduras;504;NA;.hn;HN-32.png;HN-128.png;14.64994423;-87.01643713;7
+96;HR;HRV;191;Croatia;Croatia;Croatie;385;EU;.hr;HR-32.png;HR-128.png;44.81372482;16.29039507;7
+97;HT;HTI;332;Haiti;Haiti;Haïti;509;NA;.ht;HT-32.png;HT-128.png;19.07430861;-72.79607526;8
+98;HU;HUN;348;Hungary;Hungary;Hongrie;36;EU;.hu;HU-32.png;HU-128.png;46.97670384;19.35499657;7
+99;ID;IDN;360;Indonesia;Indonesia;Indonésie;62;AS;.id;ID-32.png;ID-128.png;-2.46229680;121.18329789;4
+100;IE;IRL;372;Ireland;Ireland;Irlande;353;EU;.ie;IE-32.png;IE-128.png;53.10101628;-8.21092302;6
+101;IL;ISR;376;Israel;Israel;Israël;972;AS;.il;IL-32.png;IL-128.png;30.85883075;34.91753797;7
+102;IM;IMN;833;Isle of Man;Isle of Man;Île de Man;44;EU;.im;IM-32.png;IM-128.png;54.23562697;-4.54805400;10
+103;IN;IND;356;India;India;Inde;91;AS;.in;IN-32.png;IN-128.png;20.46549519;78.50146222;4
+104;IO;IOT;86;British Indian Ocean Territory;;;246;AS;.io;IO-32.png;IO-128.png;-7.33461519;72.42425280;12
+105;IQ;IRQ;368;Iraq;Iraq;Iraq;964;AS;.iq;IQ-32.png;IQ-128.png;32.90170182;43.19590056;6
+106;IR;IRN;364;Iran;Iran (Islamic Republic of);Iran (République islamique d');98;AS;.ir;IR-32.png;IR-128.png;31.40240324;51.28204814;5
+107;IS;ISL;352;Iceland;Iceland;Islande;354;EU;.is;IS-32.png;IS-128.png;64.99294495;-18.57038755;6
+108;IT;ITA;380;Italy;Italy;Italie;39;EU;.it;IT-32.png;IT-128.png;41.77810840;12.67725128;5
+109;JE;JEY;832;Jersey;Jersey;Jersey;44;EU;.je;JE-32.png;JE-128.png;49.21440771;-2.13124600;12
+110;JM;JAM;388;Jamaica;Jamaica;Jamaïque;1-876;NA;.jm;JM-32.png;JM-128.png;18.10838487;-77.29750600;9
+111;JO;JOR;400;Jordan;Jordan;Jordanie;962;AS;.jo;JO-32.png;JO-128.png;31.31616588;36.37575510;7
+112;JP;JPN;392;Japan;Japan;Japon;81;AS;.jp;JP-32.png;JP-128.png;37.51848822;137.67066061;5
+113;KE;KEN;404;Kenya;Kenya;Kenya;254;AF;.ke;KE-32.png;KE-128.png;0.19582452;37.97212297;6
+114;KG;KGZ;417;Kyrgyzstan;Kyrgyzstan;Kirghizistan;996;AS;.kg;KG-32.png;KG-128.png;41.11509878;74.25524574;6
+115;KH;KHM;116;Cambodia;Cambodia;Cambodge;855;AS;.kh;KH-32.png;KH-128.png;12.83288883;104.84814273;7
+116;KI;KIR;296;Kiribati;Kiribati;Kiribati;686;OC;.ki;KI-32.png;KI-128.png;1.87085244;-157.36259310;10
+117;KM;COM;174;Comoros;Comoros;Comores;269;AF;.km;KM-32.png;KM-128.png;-11.64529989;43.33330200;10
+118;KN;KNA;659;St. Kitts & Nevis;Saint Kitts and Nevis;Saint-Kitts-et-Nevis;1-869;NA;.kn;KN-32.png;KN-128.png;17.33453669;-62.76411725;12
+119;KP;PRK;408;North Korea;Democratic People's Republic of Korea;République populaire démocratique de Corée;850;AS;.kp;KP-32.png;KP-128.png;40.00785500;127.48812834;6
+120;KR;KOR;410;South Korea;Republic of Korea;République de Corée;82;AS;.kr;KR-32.png;KR-128.png;36.56344139;127.51424646;7
+121;KW;KWT;414;Kuwait;Kuwait;Koweït;965;AS;.kw;KW-32.png;KW-128.png;29.43253341;47.71798405;8
+122;KY;CYM;136;Cayman Islands;Cayman Islands;Îles Caïmanes;1-345;NA;.ky;KY-32.png;KY-128.png;19.31322102;-81.25459800;11
+123;KZ;KAZ;398;Kazakhstan;Kazakhstan;Kazakhstan;7;AS;.kz;KZ-32.png;KZ-128.png;45.38592596;68.81334444;4
+124;LA;LAO;418;Laos;Lao People's Democratic Republic;République démocratique populaire lao;856;AS;.la;LA-32.png;LA-128.png;17.76075593;103.61611347;6
+125;LB;LBN;422;Lebanon;Lebanon;Liban;961;AS;.lb;LB-32.png;LB-128.png;34.08249284;35.66454309;8
+126;LC;LCA;662;St. Lucia;Saint Lucia;Sainte-Lucie;1-758;NA;.lc;LC-32.png;LC-128.png;13.90938495;-60.97889500;11
+127;LI;LIE;438;Liechtenstein;Liechtenstein;Liechtenstein;423;EU;.li;LI-32.png;LI-128.png;47.16587383;9.55537700;11
+128;LK;LKA;144;Sri Lanka;Sri Lanka;Sri Lanka;94;AS;.lk;LK-32.png;LK-128.png;7.61264985;80.83772497;7
+129;LR;LBR;430;Liberia;Liberia;Libéria;231;AF;.lr;LR-32.png;LR-128.png;6.44154681;-9.39103485;7
+130;LS;LSO;426;Lesotho;Lesotho;Lesotho;266;AF;.ls;LS-32.png;LS-128.png;-29.60303205;28.23361200;8
+131;LT;LTU;440;Lithuania;Lithuania;Lituanie;370;EU;.lt;LT-32.png;LT-128.png;55.25095948;23.80987587;7
+132;LU;LUX;442;Luxembourg;Luxembourg;Luxembourg;352;EU;.lu;LU-32.png;LU-128.png;49.81327712;6.12958700;9
+133;LV;LVA;428;Latvia;Latvia;Lettonie;371;EU;.lv;LV-32.png;LV-128.png;56.86697515;24.54826936;7
+134;LY;LBY;434;Libya;Libya;Libye;218;AF;.ly;LY-32.png;LY-128.png;27.06902914;18.19513987;5
+135;MA;MAR;504;Morocco;Morocco;Maroc;212;AF;.ma;MA-32.png;MA-128.png;31.95441758;-7.26839325;6
+136;MC;MCO;492;Monaco;Monaco;Monaco;377;EU;.mc;MC-32.png;MC-128.png;43.70463620;6.75444978;9
+137;MD;MDA;498;Moldova;Republic of Moldova;République de Moldova;373;EU;.md;MD-32.png;MD-128.png;47.10710437;28.54018109;7
+138;ME;MNE;499;Montenegro;Montenegro;Monténégro;382;EU;.me;ME-32.png;ME-128.png;42.71699590;19.09699321;8
+139;MF;MAF;663;St. Martin;Saint Martin (French part);Saint-Martin (partie française);590;NA;.gp;MF-32.png;MF-128.png;18.07637107;-63.05019106;12
+140;MG;MDG;450;Madagascar;Madagascar;Madagascar;261;AF;.mg;MG-32.png;MG-128.png;-19.79858543;46.97898228;5
+141;MH;MHL;584;Marshall Islands;Marshall Islands;Îles Marshall;692;OC;.mh;MH-32.png;MH-128.png;7.30130732;168.75512619;10
+142;MK;MKD;807;Macedonia;The former Yugoslav Republic of Macedonia;Ex-République yougoslave de Macédoine;389;EU;.mk;MK-32.png;MK-128.png;41.60059479;21.74527900;8
+143;ML;MLI;466;Mali;Mali;Mali;223;AF;.ml;ML-32.png;ML-128.png;17.69385811;-1.96368730;5
+144;MM;MMR;104;Myanmar;Myanmar;Myanmar;95;AS;.mm;MM-32.png;MM-128.png;19.20985380;96.54949272;5
+145;MN;MNG;496;Mongolia;Mongolia;Mongolie;976;AS;.mn;MN-32.png;MN-128.png;46.80556270;104.30808978;5
+146;MO;MAC;446;Macau;"China; Macao Special Administrative Region";"Chine; région administrative spéciale de Macao";853;AS;.mo;MO-32.png;MO-128.png;22.19872287;113.54387700;12
+147;MP;MNP;580;Northern Mariana Islands;Northern Mariana Islands;Îles Mariannes septentrionales;1-670;OC;.mp;MP-32.png;MP-128.png;15.09783636;145.67390000;11
+148;MQ;MTQ;474;Martinique;Martinique;Martinique;596;NA;.mq;MQ-32.png;MQ-128.png;14.64128045;-61.02417600;10
+149;MR;MRT;478;Mauritania;Mauritania;Mauritanie;222;AF;.mr;MR-32.png;MR-128.png;20.28331239;-10.21573334;5
+150;MS;MSR;500;Montserrat;Montserrat;Montserrat;1-664;NA;.ms;MS-32.png;MS-128.png;16.74774077;-62.18736600;12
+151;MT;MLT;470;Malta;Malta;Malte;356;EU;.mt;MT-32.png;MT-128.png;35.89706403;14.43687877;11
+152;MU;MUS;480;Mauritius;Mauritius;Maurice;230;AF;.mu;MU-32.png;MU-128.png;-20.28368188;57.56588291;10
+153;MV;MDV;462;Maldives;Maldives;Maldives;960;AS;.mv;MV-32.png;MV-128.png;-0.64224221;73.13373313;12
+154;MW;MWI;454;Malawi;Malawi;Malawi;265;AF;.mw;MW-32.png;MW-128.png;-12.48684092;34.14223524;6
+155;MX;MEX;484;Mexico;Mexico;Mexique;52;NA;.mx;MX-32.png;MX-128.png;22.92036676;-102.33305344;5
+156;MY;MYS;458;Malaysia;Malaysia;Malaisie;60;AS;.my;MY-32.png;MY-128.png;4.97345793;106.54609050;5
+157;MZ;MOZ;508;Mozambique;Mozambique;Mozambique;258;AF;.mz;MZ-32.png;MZ-128.png;-19.07617816;33.81570282;5
+158;NA;NAM;516;Namibia;Namibia;Namibie;264;AF;.na;NA-32.png;NA-128.png;-22.70965620;16.72161918;6
+159;NC;NCL;540;New Caledonia;New Caledonia;Nouvelle-Calédonie;687;OC;.nc;NC-32.png;NC-128.png;-21.26104020;165.58783760;8
+160;NE;NER;562;Niger;Niger;Niger;227;AF;.ne;NE-32.png;NE-128.png;17.23446679;8.23547860;6
+161;NF;NFK;574;Norfolk Island;Norfolk Island;Île Norfolk;672;OC;.nf;NF-32.png;NF-128.png;-29.02801043;167.94303023;13
+162;NG;NGA;566;Nigeria;Nigeria;Nigéria;234;AF;.ng;NG-32.png;NG-128.png;9.02165273;7.82933373;6
+163;NI;NIC;558;Nicaragua;Nicaragua;Nicaragua;505;NA;.ni;NI-32.png;NI-128.png;12.91806226;-84.82270352;7
+164;NL;NLD;528;Netherlands;Netherlands;Pays-Bas;31;EU;.nl;NL-32.png;NL-128.png;52.33939951;4.98914998;7
+165;NO;NOR;578;Norway;Norway;Norvège;47;EU;.no;NO-32.png;NO-128.png;65.04680297;13.50069228;4
+166;NP;NPL;524;Nepal;Nepal;Népal;977;AS;.np;NP-32.png;NP-128.png;28.28430770;83.98119373;7
+167;NR;NRU;520;Nauru;Nauru;Nauru;674;OC;.nr;NR-32.png;NR-128.png;-0.52586763;166.93270463;13
+168;NU;NIU;570;Niue;Niue;Nioué;683;OC;.nu;NU-32.png;NU-128.png;-19.04976362;-169.86585571;11
+169;NZ;NZL;554;New Zealand;New Zealand;Nouvelle-Zélande;64;OC;.nz;NZ-32.png;NZ-128.png;-40.95025298;171.76586181;5
+170;OM;OMN;512;Oman;Oman;Oman;968;AS;.om;OM-32.png;OM-128.png;20.69906846;56.69230596;6
+171;PA;PAN;591;Panama;Panama;Panama;507;NA;.pa;PA-32.png;PA-128.png;8.52135102;-80.04603702;7
+172;PE;PER;604;Peru;Peru;Pérou;51;SA;.pe;PE-32.png;PE-128.png;-8.50205247;-76.15772412;5
+173;PF;PYF;258;French Polynesia;French Polynesia;Polynésie française;689;OC;.pf;PF-32.png;PF-128.png;-17.66243898;-149.40683900;10
+174;PG;PNG;598;Papua New Guinea;Papua New Guinea;Papouasie-Nouvelle-Guinée;675;OC;.pg;PG-32.png;PG-128.png;-6.62414046;144.44993477;7
+175;PH;PHL;608;Philippines;Philippines;Philippines;63;AS;.ph;PH-32.png;PH-128.png;12.82361200;121.77401700;6
+176;PK;PAK;586;Pakistan;Pakistan;Pakistan;92;AS;.pk;PK-32.png;PK-128.png;29.90335974;70.34487986;5
+177;PL;POL;616;Poland;Poland;Pologne;48;EU;.pl;PL-32.png;PL-128.png;52.10117636;19.33190957;6
+178;PM;SPM;666;St. Pierre & Miquelon;Saint Pierre and Miquelon;Saint-Pierre-et-Miquelon;508;NA;.pm;PM-32.png;PM-128.png;46.88469499;-56.31590200;10
+179;PN;PCN;612;Pitcairn Islands;Pitcairn;Pitcairn;870;OC;.pn;PN-32.png;PN-128.png;-24.37673925;-128.32423730;13
+180;PR;PRI;630;Puerto Rico;Puerto Rico;Porto Rico;1;NA;.pr;PR-32.png;PR-128.png;18.21963053;-66.59015100;9
+181;PS;PSE;275;Palestine;State of Palestine;État de Palestine;970;AS;.ps;PS-32.png;PS-128.png;32.26367103;35.21936714;8
+182;PT;PRT;620;Portugal;Portugal;Portugal;351;EU;.pt;PT-32.png;PT-128.png;39.44879136;-8.03768042;6
+183;PW;PLW;585;Palau;Palau;Palaos;680;OC;.pw;PW-32.png;PW-128.png;7.49856307;134.57291496;10
+184;PY;PRY;600;Paraguay;Paraguay;Paraguay;595;SA;.py;PY-32.png;PY-128.png;-23.38564782;-58.29551057;6
+185;QA;QAT;634;Qatar;Qatar;Qatar;974;AS;.qa;QA-32.png;QA-128.png;25.24551555;51.24431480;8
+186;RE;REU;638;Réunion;Réunion;Réunion;262;AF;.re;RE-32.png;RE-128.png;-21.11480084;55.53638200;10
+187;RO;ROU;642;Romania;Romania;Roumanie;40;EU;.ro;RO-32.png;RO-128.png;45.56450023;25.21945155;6
+188;RS;SRB;688;Serbia;Serbia;Serbie;381 p;EU;.rs;RS-32.png;RS-128.png;44.06736041;20.29725084;7
+189;RU;RUS;643;Russia;Russian Federation;Fédération de Russie;7;EU;.ru;RU-32.png;RU-128.png;57.96812298;102.41837137;3
+190;RW;RWA;646;Rwanda;Rwanda;Rwanda;250;AF;.rw;RW-32.png;RW-128.png;-1.98589079;29.94255855;8
+191;SA;SAU;682;Saudi Arabia;Saudi Arabia;Arabie saoudite;966;AS;.sa;SA-32.png;SA-128.png;24.16687314;42.88190638;5
+192;SB;SLB;90;Solomon Islands;Solomon Islands;Îles Salomon;677;OC;.sb;SB-32.png;SB-128.png;-9.64554280;160.15619400;10
+193;SC;SYC;690;Seychelles;Seychelles;Seychelles;248;AF;.sc;SC-32.png;SC-128.png;-4.68053204;55.49061371;11
+194;SD;SDN;729;Sudan;Sudan;Soudan;249;AF;.sd;SD-32.png;SD-128.png;15.96646839;30.37145459;5
+195;SE;SWE;752;Sweden;Sweden;Suède;46;EU;.se;SE-32.png;SE-128.png;61.42370427;16.73188991;4
+196;SG;SGP;702;Singapore;Singapore;Singapour;65;AS;.sg;SG-32.png;SG-128.png;1.33873261;103.83323559;11
+197;SH;SHN;654;St. Helena;Saint Helena;Sainte-Hélène;290 n;AF;.sh;SH-32.png;SH-128.png;-37.10521846;-12.27768580;12
+198;SI;SVN;705;Slovenia;Slovenia;Slovénie;386;EU;.si;SI-32.png;SI-128.png;46.14315048;14.99546300;8
+199;SJ;SJM;744;Svalbard & Jan Mayen;Svalbard and Jan Mayen Islands;Îles Svalbard-et-Jan Mayen;47;EU;.sj;SJ-32.png;SJ-128.png;77.92215764;18.99010622;4
+200;SK;SVK;703;Slovakia;Slovakia;Slovaquie;421;EU;.sk;SK-32.png;SK-128.png;48.66923253;19.75396564;7
+201;SL;SLE;694;Sierra Leone;Sierra Leone;Sierra Leone;232;AF;.sl;SL-32.png;SL-128.png;8.45575589;-11.93368759;8
+202;SM;SMR;674;San Marino;San Marino;Saint-Marin;378;EU;.sm;SM-32.png;SM-128.png;43.94223356;12.45777700;11
+203;SN;SEN;686;Senegal;Senegal;Sénégal;221;AF;.sn;SN-32.png;SN-128.png;14.43579003;-14.68306489;7
+204;SO;SOM;706;Somalia;Somalia;Somalie;252;AF;.so;SO-32.png;SO-128.png;2.87224619;45.27676444;7
+205;SR;SUR;740;Suriname;Suriname;Suriname;597;SA;.sr;SR-32.png;SR-128.png;4.26470865;-55.93988238;7
+206;SS;SSD;728;South Sudan;South Sudan;Soudan du Sud;211;AF;;SS-32.png;SS-128.png;7.91320803;30.15342434;6
+207;ST;STP;678;São Tomé & Príncipe;Sao Tome and Principe;Sao Tomé-et-Principe;239;AF;.st;ST-32.png;ST-128.png;0.23381910;6.59935809;10
+208;SV;SLV;222;El Salvador;El Salvador;El Salvador;503;NA;.sv;SV-32.png;SV-128.png;13.79043561;-88.89652800;8
+209;SX;SXM;534;Sint Maarten;Sint Maarten (Dutch part);Saint-Martin (partie néerlandaise);1-721;NA;.sx;SX-32.png;SX-128.png;18.04433885;-63.05616320;12
+210;SY;SYR;760;Syria;Syrian Arab Republic;République arabe syrienne;963;AS;.sy;SY-32.png;SY-128.png;34.71097430;38.66723516;6
+211;SZ;SWZ;748;Swaziland;Swaziland;Swaziland;268;AF;.sz;SZ-32.png;SZ-128.png;-26.53892570;31.47960891;9
+212;TC;TCA;796;Turks & Caicos Islands;Turks and Caicos Islands;Îles Turques-et-Caïques;1-649;NA;.tc;TC-32.png;TC-128.png;21.72816866;-71.79654471;9
+213;TD;TCD;148;Chad;Chad;Tchad;235;AF;.td;TD-32.png;TD-128.png;14.80342407;18.78714064;5
+214;TF;ATF;260;French Southern Territories;;;262;AN;.tf;TF-32.png;TF-128.png;-49.27235903;69.34856300;8
+215;TG;TGO;768;Togo;Togo;Togo;228;AF;.tg;TG-32.png;TG-128.png;8.68089206;0.86049757;7
+216;TH;THA;764;Thailand;Thailand;Thaïlande;66;AS;.th;TH-32.png;TH-128.png;14.60009810;101.38805881;5
+217;TJ;TJK;762;Tajikistan;Tajikistan;Tadjikistan;992;AS;.tj;TJ-32.png;TJ-128.png;38.68075124;71.23215769;7
+218;TK;TKL;772;Tokelau;Tokelau;Tokelau;690;OC;.tk;TK-32.png;TK-128.png;-9.16682644;-171.83981693;10
+219;TL;TLS;626;Timor-Leste;Timor-Leste;Timor-Leste;670;OC;.tl;TL-32.png;TL-128.png;-8.88926365;125.99671404;9
+220;TM;TKM;795;Turkmenistan;Turkmenistan;Turkménistan;993;AS;.tm;TM-32.png;TM-128.png;38.94915421;59.06190323;6
+221;TN;TUN;788;Tunisia;Tunisia;Tunisie;216;AF;.tn;TN-32.png;TN-128.png;33.88431940;9.71878341;6
+222;TO;TON;776;Tonga;Tonga;Tonga;676;OC;.to;TO-32.png;TO-128.png;-21.17890075;-175.19824200;11
+223;TR;TUR;792;Turkey;Turkey;Turquie;90;AS;.tr;TR-32.png;TR-128.png;38.27069555;36.28703317;5
+224;TT;TTO;780;Trinidad & Tobago;Trinidad and Tobago;Trinité-et-Tobago;1-868;NA;.tt;TT-32.png;TT-128.png;10.43241863;-61.22250300;10
+225;TV;TUV;798;Tuvalu;Tuvalu;Tuvalu;688;OC;.tv;TV-32.png;TV-128.png;-8.45968122;179.13310944;12
+226;TW;TWN;158;Taiwan;;;886;AS;.tw;TW-32.png;TW-128.png;23.71891402;121.10884043;7
+227;TZ;TZA;834;Tanzania;United Republic of Tanzania;République-Unie de Tanzanie;255;AF;.tz;TZ-32.png;TZ-128.png;-6.37551085;34.85587302;6
+228;UA;UKR;804;Ukraine;Ukraine;Ukraine;380;EU;.ua;UA-32.png;UA-128.png;48.89358596;31.10516920;6
+229;UG;UGA;800;Uganda;Uganda;Ouganda;256;AF;.ug;UG-32.png;UG-128.png;1.54760620;32.44409759;7
+230;UM;UMI;581;U.S. Outlying Islands;;;;OC;.um;UM-32.png;UM-128.png;19.46305694;177.98631092;5
+231;US;USA;840;US;United States of America;États-Unis d'Amérique;1;NA;.us;US-32.png;US-128.png;37.66895362;-102.39256450;4
+232;UY;URY;858;Uruguay;Uruguay;Uruguay;598;SA;.uy;UY-32.png;UY-128.png;-32.49342987;-55.76583300;7
+233;UZ;UZB;860;Uzbekistan;Uzbekistan;Ouzbékistan;998;AS;.uz;UZ-32.png;UZ-128.png;41.30829147;62.62970960;6
+234;VA;VAT;336;Vatican City;Holy See;Saint-Siège;39-06;EU;.va;VA-32.png;VA-128.png;41.90377810;12.45340142;16
+235;VC;VCT;670;St. Vincent & Grenadines;Saint Vincent and the Grenadines;Saint-Vincent-et-les Grenadines;1-784;NA;.vc;VC-32.png;VC-128.png;13.25276143;-61.19709800;11
+236;VE;VEN;862;Venezuela;Venezuela (Bolivarian Republic of);Venezuela (République bolivarienne du);58;SA;.ve;VE-32.png;VE-128.png;5.98477766;-65.94152264;6
+237;VG;VGB;92;British Virgin Islands;British Virgin Islands;Îles Vierges britanniques;1-284;NA;.vg;VG-32.png;VG-128.png;17.67004187;-64.77411010;10
+238;VI;VIR;850;U.S. Virgin Islands;United States Virgin Islands;Îles Vierges américaines;1-340;NA;.vi;VI-32.png;VI-128.png;18.01000938;-64.77411410;9
+239;VN;VNM;704;Vietnam;Viet Nam;Viet Nam;84;AS;.vn;VN-32.png;VN-128.png;17.19931699;107.14012804;5
+240;VU;VUT;548;Vanuatu;Vanuatu;Vanuatu;678;OC;.vu;VU-32.png;VU-128.png;-15.37256614;166.95916000;8
+241;WF;WLF;876;Wallis & Futuna;Wallis and Futuna Islands;Îles Wallis-et-Futuna;681;OC;.wf;WF-32.png;WF-128.png;-14.29378486;-178.11649800;12
+242;WS;WSM;882;Samoa;Samoa;Samoa;685;OC;.ws;WS-32.png;WS-128.png;-13.57998954;-172.45207363;10
+243;YE;YEM;887;Yemen;Yemen;Yémen;967;AS;.ye;YE-32.png;YE-128.png;15.60865453;47.60453676;6
+244;YT;MYT;175;Mayotte;Mayotte;Mayotte;262;AF;.yt;YT-32.png;YT-128.png;-12.82744522;45.16624200;11
+245;ZA;ZAF;710;South Africa;South Africa;Afrique du Sud;27;AF;.za;ZA-32.png;ZA-128.png;-27.17706863;24.50856092;5
+246;ZM;ZMB;894;Zambia;Zambia;Zambie;260;AF;.zm;ZM-32.png;ZM-128.png;-13.01812188;28.33274444;6
+247;ZW;ZWE;716;Zimbabwe;Zimbabwe;Zimbabwe;263;AF;.zw;ZW-32.png;ZW-128.png;-19.00784952;30.18758584;6

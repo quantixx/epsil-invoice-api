@@ -1,0 +1,262 @@
+id;entity;currency;alphabetic_code;numeric_code;minor_unit;symbol;activated
+1;AFGHANISTAN;Afghani;AFN;971;2;;false
+2;ALAND ISLANDS;Euro;EUR;978;2;€;false
+3;ALBANIA;Lek;ALL;8;2;;false
+4;ALGERIA;Algerian Dinar;DZD;12;2;;false
+5;AMERICAN SAMOA;US Dollar;USD;840;2;$;false
+6;ANDORRA;Euro;EUR;978;2;€;false
+7;ANGOLA;Kwanza;AOA;973;2;;false
+8;ANGUILLA;East Caribbean Dollar;XCD;951;2;$;false
+9;ANTIGUA AND BARBUDA;East Caribbean Dollar;XCD;951;2;$;false
+10;ARGENTINA;Argentine Peso;ARS;32;2;;false
+11;ARMENIA;Armenian Dram;AMD;51;2;;false
+12;ARUBA;Aruban Florin;AWG;533;2;;false
+13;AUSTRALIA;Australian Dollar;AUD;36;2;$;false
+14;AUSTRIA;Euro;EUR;978;2;€;false
+15;AZERBAIJAN;Azerbaijanian Manat;AZN;944;2;;false
+16;BAHAMAS (THE);Bahamian Dollar;BSD;44;2;$;false
+17;BAHRAIN;Bahraini Dinar;BHD;48;3;;false
+18;BANGLADESH;Taka;BDT;50;2;;false
+19;BARBADOS;Barbados Dollar;BBD;52;2;$;false
+20;BELARUS;Belarusian Ruble;BYN;933;2;;false
+21;BELGIUM;Euro;EUR;978;2;€;false
+22;BELIZE;Belize Dollar;BZD;84;2;$;false
+23;BENIN;CFA Franc BCEAO;XOF;952;0;;false
+24;BERMUDA;Bermudian Dollar;BMD;60;2;$;false
+25;BHUTAN;Indian Rupee;INR;356;2;;false
+26;BHUTAN;Ngultrum;BTN;64;2;;false
+27;BOLIVIA (PLURINATIONAL STATE OF);Boliviano;BOB;68;2;;false
+28;BOLIVIA (PLURINATIONAL STATE OF);Mvdol;BOV;984;2;;false
+29;BOSNIA AND HERZEGOVINA;Convertible Mark;BAM;977;2;;false
+30;BOTSWANA;Pula;BWP;72;2;;false
+31;BOUVET ISLAND;Norwegian Krone;NOK;578;2;;false
+32;BRAZIL;Brazilian Real;BRL;986;2;;false
+33;BRITISH INDIAN OCEAN TERRITORY (THE);US Dollar;USD;840;2;$;false
+34;BRUNEI DARUSSALAM;Brunei Dollar;BND;96;2;$;false
+35;BULGARIA;Bulgarian Lev;BGN;975;2;;false
+36;BURKINA FASO;CFA Franc BCEAO;XOF;952;0;;false
+37;BURUNDI;Burundi Franc;BIF;108;0;;false
+38;CABO VERDE;Cabo Verde Escudo;CVE;132;2;;false
+39;CAMBODIA;Riel;KHR;116;2;;false
+40;CAMEROON;CFA Franc BEAC;XAF;950;0;;false
+41;CANADA;Canadian Dollar;CAD;124;2;$;false
+42;CAYMAN ISLANDS (THE);Cayman Islands Dollar;KYD;136;2;$;false
+43;CENTRAL AFRICAN REPUBLIC (THE);CFA Franc BEAC;XAF;950;0;;false
+44;CHAD;CFA Franc BEAC;XAF;950;0;;false
+45;CHILE;Chilean Peso;CLP;152;0;;false
+46;CHILE;Unidad de Fomento;CLF;990;4;;false
+47;CHINA;Yuan Renminbi;CNY;156;2;;false
+48;CHRISTMAS ISLAND;Australian Dollar;AUD;36;2;$;false
+49;COCOS (KEELING) ISLANDS (THE);Australian Dollar;AUD;36;2;$;false
+50;COLOMBIA;Colombian Peso;COP;170;2;;false
+51;COLOMBIA;Unidad de Valor Real;COU;970;2;;false
+52;COMOROS (THE);Comoro Franc;KMF;174;0;;false
+53;CONGO (THE DEMOCRATIC REPUBLIC OF THE);Congolese Franc;CDF;976;2;;false
+54;CONGO (THE);CFA Franc BEAC;XAF;950;0;;false
+55;COOK ISLANDS (THE);New Zealand Dollar;NZD;554;2;$;false
+56;COSTA RICA;Costa Rican Colon;CRC;188;2;;false
+57;CÔTE D'IVOIRE;CFA Franc BCEAO;XOF;952;0;;false
+58;CROATIA;Kuna;HRK;191;2;;false
+59;CUBA;Cuban Peso;CUP;192;2;;false
+60;CUBA;Peso Convertible;CUC;931;2;;false
+61;CURAÇAO;Netherlands Antillean Guilder;ANG;532;2;;false
+62;CYPRUS;Euro;EUR;978;2;€;false
+63;CZECH REPUBLIC (THE);Czech Koruna;CZK;203;2;;false
+64;DENMARK;Danish Krone;DKK;208;2;;false
+65;DJIBOUTI;Djibouti Franc;DJF;262;0;;false
+66;DOMINICA;East Caribbean Dollar;XCD;951;2;$;false
+67;DOMINICAN REPUBLIC (THE);Dominican Peso;DOP;214;2;;false
+68;ECUADOR;US Dollar;USD;840;2;$;false
+69;EGYPT;Egyptian Pound;EGP;818;2;£;false
+70;EL SALVADOR;El Salvador Colon;SVC;222;2;;false
+71;EL SALVADOR;US Dollar;USD;840;2;$;false
+72;EQUATORIAL GUINEA;CFA Franc BEAC;XAF;950;0;;false
+73;ERITREA;Nakfa;ERN;232;2;;false
+74;ESTONIA;Euro;EUR;978;2;€;false
+75;ETHIOPIA;Ethiopian Birr;ETB;230;2;;false
+76;EUROPEAN UNION;Euro;EUR;978;2;€;true
+77;FALKLAND ISLANDS (THE) [MALVINAS];Falkland Islands Pound;FKP;238;2;£;false
+78;FAROE ISLANDS (THE);Danish Krone;DKK;208;2;;false
+79;FIJI;Fiji Dollar;FJD;242;2;$;false
+80;FINLAND;Euro;EUR;978;2;€;false
+81;FRANCE;Euro;EUR;978;2;€;false
+82;FRENCH GUIANA;Euro;EUR;978;2;€;false
+83;FRENCH POLYNESIA;CFP Franc;XPF;953;0;;false
+84;FRENCH SOUTHERN TERRITORIES (THE);Euro;EUR;978;2;€;false
+85;GABON;CFA Franc BEAC;XAF;950;0;;false
+86;GAMBIA (THE);Dalasi;GMD;270;2;;false
+87;GEORGIA;Lari;GEL;981;2;;false
+88;GERMANY;Euro;EUR;978;2;€;false
+89;GHANA;Ghana Cedi;GHS;936;2;;false
+90;GIBRALTAR;Gibraltar Pound;GIP;292;2;£;false
+91;GREECE;Euro;EUR;978;2;€;false
+92;GREENLAND;Danish Krone;DKK;208;2;;false
+93;GRENADA;East Caribbean Dollar;XCD;951;2;$;false
+94;GUADELOUPE;Euro;EUR;978;2;€;false
+95;GUAM;US Dollar;USD;840;2;$;false
+96;GUATEMALA;Quetzal;GTQ;320;2;;false
+97;GUERNSEY;Pound Sterling;GBP;826;2;£;false
+98;GUINEA;Guinea Franc;GNF;324;0;;false
+99;GUINEA-BISSAU;CFA Franc BCEAO;XOF;952;0;;false
+100;GUYANA;Guyana Dollar;GYD;328;2;$;false
+101;HAITI;Gourde;HTG;332;2;;false
+102;HAITI;US Dollar;USD;840;2;$;false
+103;HEARD ISLAND AND McDONALD ISLANDS;Australian Dollar;AUD;36;2;$;false
+104;HOLY SEE (THE);Euro;EUR;978;2;€;false
+105;HONDURAS;Lempira;HNL;340;2;;false
+106;HONG KONG;Hong Kong Dollar;HKD;344;2;$;false
+107;HUNGARY;Forint;HUF;348;2;;false
+108;ICELAND;Iceland Krona;ISK;352;0;;false
+109;INDIA;Indian Rupee;INR;356;2;;false
+110;INDONESIA;Rupiah;IDR;360;2;;false
+111;IRAN (ISLAMIC REPUBLIC OF);Iranian Rial;IRR;364;2;;false
+112;IRAQ;Iraqi Dinar;IQD;368;3;;false
+113;IRELAND;Euro;EUR;978;2;€;false
+114;ISLE OF MAN;Pound Sterling;GBP;826;2;£;false
+115;ISRAEL;New Israeli Sheqel;ILS;376;2;;false
+116;ITALY;Euro;EUR;978;2;€;false
+117;JAMAICA;Jamaican Dollar;JMD;388;2;$;false
+118;JAPAN;Yen;JPY;392;0;;false
+119;JERSEY;Pound Sterling;GBP;826;2;£;false
+120;JORDAN;Jordanian Dinar;JOD;400;3;;false
+121;KAZAKHSTAN;Tenge;KZT;398;2;;false
+122;KENYA;Kenyan Shilling;KES;404;2;;false
+123;KIRIBATI;Australian Dollar;AUD;36;2;$;false
+124;KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF);North Korean Won;KPW;408;2;;false
+125;KOREA (THE REPUBLIC OF);Won;KRW;410;0;;false
+126;KUWAIT;Kuwaiti Dinar;KWD;414;3;;false
+127;KYRGYZSTAN;Som;KGS;417;2;;false
+128;LAO PEOPLE’S DEMOCRATIC REPUBLIC (THE);Kip;LAK;418;2;;false
+129;LATVIA;Euro;EUR;978;2;€;false
+130;LEBANON;Lebanese Pound;LBP;422;2;£;false
+131;LESOTHO;Loti;LSL;426;2;;false
+132;LESOTHO;Rand;ZAR;710;2;;false
+133;LIBERIA;Liberian Dollar;LRD;430;2;$;false
+134;LIBYA;Libyan Dinar;LYD;434;3;;false
+135;LIECHTENSTEIN;Swiss Franc;CHF;756;2;;false
+136;LITHUANIA;Euro;EUR;978;2;€;false
+137;LUXEMBOURG;Euro;EUR;978;2;€;false
+138;MACAO;Pataca;MOP;446;2;;false
+139;MACEDONIA (THE FORMER YUGOSLAV REPUBLIC OF);Denar;MKD;807;2;;false
+140;MADAGASCAR;Malagasy Ariary;MGA;969;2;;false
+141;MALAWI;Malawi Kwacha;MWK;454;2;;false
+142;MALAYSIA;Malaysian Ringgit;MYR;458;2;;false
+143;MALDIVES;Rufiyaa;MVR;462;2;;false
+144;MALI;CFA Franc BCEAO;XOF;952;0;;false
+145;MALTA;Euro;EUR;978;2;€;false
+146;MARSHALL ISLANDS (THE);US Dollar;USD;840;2;$;false
+147;MARTINIQUE;Euro;EUR;978;2;€;false
+148;MAURITANIA;Ouguiya;MRO;478;2;;false
+149;MAURITIUS;Mauritius Rupee;MUR;480;2;;false
+150;MAYOTTE;Euro;EUR;978;2;€;false
+151;MEXICO;Mexican Peso;MXN;484;2;;false
+152;MEXICO;Mexican Unidad de Inversion (UDI);MXV;979;2;;false
+153;MICRONESIA (FEDERATED STATES OF);US Dollar;USD;840;2;$;false
+154;MOLDOVA (THE REPUBLIC OF);Moldovan Leu;MDL;498;2;;false
+155;MONACO;Euro;EUR;978;2;€;false
+156;MONGOLIA;Tugrik;MNT;496;2;;false
+157;MONTENEGRO;Euro;EUR;978;2;€;false
+158;MONTSERRAT;East Caribbean Dollar;XCD;951;2;$;false
+159;MOROCCO;Moroccan Dirham;MAD;504;2;;false
+160;MOZAMBIQUE;Mozambique Metical;MZN;943;2;;false
+161;MYANMAR;Kyat;MMK;104;2;;false
+162;NAMIBIA;Namibia Dollar;NAD;516;2;$;false
+163;NAMIBIA;Rand;ZAR;710;2;;false
+164;NAURU;Australian Dollar;AUD;36;2;$;false
+165;NEPAL;Nepalese Rupee;NPR;524;2;;false
+166;NETHERLANDS (THE);Euro;EUR;978;2;€;false
+167;NEW CALEDONIA;CFP Franc;XPF;953;0;;false
+168;NEW ZEALAND;New Zealand Dollar;NZD;554;2;$;false
+169;NICARAGUA;Cordoba Oro;NIO;558;2;;false
+170;NIGER (THE);CFA Franc BCEAO;XOF;952;0;;false
+171;NIGERIA;Naira;NGN;566;2;;false
+172;NIUE;New Zealand Dollar;NZD;554;2;$;false
+173;NORFOLK ISLAND;Australian Dollar;AUD;36;2;$;false
+174;NORTHERN MARIANA ISLANDS (THE);US Dollar;USD;840;2;$;false
+175;NORWAY;Norwegian Krone;NOK;578;2;;false
+176;OMAN;Rial Omani;OMR;512;3;;false
+177;PAKISTAN;Pakistan Rupee;PKR;586;2;;false
+178;PALAU;US Dollar;USD;840;2;$;false
+179;PANAMA;Balboa;PAB;590;2;;false
+180;PANAMA;US Dollar;USD;840;2;$;false
+181;PAPUA NEW GUINEA;Kina;PGK;598;2;;false
+182;PARAGUAY;Guarani;PYG;600;0;;false
+183;PERU;Sol;PEN;604;2;;false
+184;PHILIPPINES (THE);Philippine Peso;PHP;608;2;;false
+185;PITCAIRN;New Zealand Dollar;NZD;554;2;$;false
+186;POLAND;Zloty;PLN;985;2;;false
+187;PORTUGAL;Euro;EUR;978;2;€;false
+188;PUERTO RICO;US Dollar;USD;840;2;$;false
+189;QATAR;Qatari Rial;QAR;634;2;;false
+190;RÉUNION;Euro;EUR;978;2;€;false
+191;ROMANIA;Romanian Leu;RON;946;2;;false
+192;RUSSIAN FEDERATION (THE);Russian Ruble;RUB;643;2;;false
+193;RWANDA;Rwanda Franc;RWF;646;0;;false
+194;SAINT BARTHÉLEMY;Euro;EUR;978;2;€;false
+195;SAINT HELENA;Saint Helena Pound;SHP;654;2;£;false
+196;SAINT KITTS AND NEVIS;East Caribbean Dollar;XCD;951;2;$;false
+197;SAINT LUCIA;East Caribbean Dollar;XCD;951;2;$;false
+198;SAINT MARTIN (FRENCH PART);Euro;EUR;978;2;€;false
+199;SAINT PIERRE AND MIQUELON;Euro;EUR;978;2;€;false
+200;SAINT VINCENT AND THE GRENADINES;East Caribbean Dollar;XCD;951;2;$;false
+201;SAMOA;Tala;WST;882;2;;false
+202;SAN MARINO;Euro;EUR;978;2;€;false
+203;SAO TOME AND PRINCIPE;Dobra;STD;678;2;;false
+204;SAUDI ARABIA;Saudi Riyal;SAR;682;2;;false
+205;SENEGAL;CFA Franc BCEAO;XOF;952;0;;false
+206;SERBIA;Serbian Dinar;RSD;941;2;;false
+207;SEYCHELLES;Seychelles Rupee;SCR;690;2;;false
+208;SIERRA LEONE;Leone;SLL;694;2;;false
+209;SINGAPORE;Singapore Dollar;SGD;702;2;$;false
+210;SINT MAARTEN (DUTCH PART);Netherlands Antillean Guilder;ANG;532;2;;false
+211;SLOVAKIA;Euro;EUR;978;2;€;false
+212;SLOVENIA;Euro;EUR;978;2;€;false
+213;SOLOMON ISLANDS;Solomon Islands Dollar;SBD;90;2;$;false
+214;SOMALIA;Somali Shilling;SOS;706;2;;false
+215;SOUTH AFRICA;Rand;ZAR;710;2;;false
+216;SOUTH SUDAN;South Sudanese Pound;SSP;728;2;£;false
+217;SPAIN;Euro;EUR;978;2;€;false
+218;SRI LANKA;Sri Lanka Rupee;LKR;144;2;;false
+219;SUDAN (THE);Sudanese Pound;SDG;938;2;£;false
+220;SURINAME;Surinam Dollar;SRD;968;2;$;false
+221;SVALBARD AND JAN MAYEN;Norwegian Krone;NOK;578;2;;false
+222;SWAZILAND;Lilangeni;SZL;748;2;;false
+223;SWEDEN;Swedish Krona;SEK;752;2;;false
+224;SWITZERLAND;Swiss Franc;CHF;756;2;;false
+225;SWITZERLAND;WIR Euro;CHE;947;2;€;false
+226;SWITZERLAND;WIR Franc;CHW;948;2;;false
+227;SYRIAN ARAB REPUBLIC;Syrian Pound;SYP;760;2;£;false
+228;TAIWAN (PROVINCE OF CHINA);New Taiwan Dollar;TWD;901;2;$;false
+229;TAJIKISTAN;Somoni;TJS;972;2;;false
+230;TANZANIA;Tanzanian Shilling;TZS;834;2;;false
+231;THAILAND;Baht;THB;764;2;;false
+232;TIMOR-LESTE;US Dollar;USD;840;2;$;false
+233;TOGO;CFA Franc BCEAO;XOF;952;0;;false
+234;TOKELAU;New Zealand Dollar;NZD;554;2;$;false
+235;TONGA;Pa’anga;TOP;776;2;;false
+236;TRINIDAD AND TOBAGO;Trinidad and Tobago Dollar;TTD;780;2;$;false
+237;TUNISIA;Tunisian Dinar;TND;788;3;;false
+238;TURKEY;Turkish Lira;TRY;949;2;;false
+239;TURKMENISTAN;Turkmenistan New Manat;TMT;934;2;;false
+240;TURKS AND CAICOS ISLANDS (THE);US Dollar;USD;840;2;$;false
+241;TUVALU;Australian Dollar;AUD;36;2;$;false
+242;UGANDA;Uganda Shilling;UGX;800;0;;false
+243;UKRAINE;Hryvnia;UAH;980;2;;false
+244;UNITED ARAB EMIRATES (THE);UAE Dirham;AED;784;2;;false
+245;UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE);Pound Sterling;GBP;826;2;£;false
+246;UNITED STATES MINOR OUTLYING ISLANDS (THE);US Dollar;USD;840;2;$;false
+247;UNITED STATES OF AMERICA (THE);US Dollar;USD;840;2;$;false
+248;UNITED STATES OF AMERICA (THE);US Dollar (Next day);USN;997;2;$;false
+249;URUGUAY;Peso Uruguayo;UYU;858;2;;false
+250;URUGUAY;Uruguay Peso en Unidades Indexadas (URUIURUI);UYI;940;0;;false
+251;UZBEKISTAN;Uzbekistan Sum;UZS;860;2;;false
+252;VANUATU;Vatu;VUV;548;0;;false
+253;VENEZUELA (BOLIVARIAN REPUBLIC OF);Bolívar;VEF;937;2;;false
+254;VIET NAM;Dong;VND;704;0;;false
+255;VIRGIN ISLANDS (BRITISH);US Dollar;USD;840;2;$;false
+256;VIRGIN ISLANDS (U.S.);US Dollar;USD;840;2;$;false
+257;WALLIS AND FUTUNA;CFP Franc;XPF;953;0;;false
+258;WESTERN SAHARA;Moroccan Dirham;MAD;504;2;;false
+259;YEMEN;Yemeni Rial;YER;886;2;;false
+260;ZAMBIA;Zambian Kwacha;ZMW;967;2;;false
+261;ZIMBABWE;Zimbabwe Dollar;ZWL;932;2;$;false
