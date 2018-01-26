@@ -9,7 +9,7 @@
     "packageName": "io.epsil.invoice",
     "packageFolder": "io/epsil/invoice",
     "serverPort": "8081",
-    "authenticationType": "oauth2",
+    "authenticationType": "jwt",
     "cacheProvider": "hazelcast",
     "enableHibernateCache": true,
     "websocket": false,
@@ -22,7 +22,7 @@
     "buildTool": "maven",
     "enableSocialSignIn": false,
     "enableSwaggerCodegen": false,
-    "jwtSecretKey": "8f464f4a586b562c3f29ed35c0be86b00c4d6620",
+    "jwtSecretKey": "88f7048eb63814d8ec6b518676a4bfd9fae90ea6",
     "enableTranslation": true,
     "applicationType": "microservice",
     "testFrameworks": [
