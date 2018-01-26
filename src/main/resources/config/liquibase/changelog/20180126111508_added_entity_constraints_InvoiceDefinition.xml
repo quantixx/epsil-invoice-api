@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd">
+    <!--
+        Added the constraints for entity InvoiceDefinition.
+    -->
+    <changeSet id="20180126111508-2" author="jhipster">
+        
+        <addForeignKeyConstraint baseColumnNames="family_id"
+                                 baseTableName="inv_invoice_def"
+                                 constraintName="fk_invoice_definition_family_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="inv_family"/>
+
+        <addForeignKeyConstraint baseColumnNames="language_id"
+                                 baseTableName="inv_invoice_def"
+                                 constraintName="fk_invoice_definition_language_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="inv_language"/>
+
+        <addForeignKeyConstraint baseColumnNames="tenant_id"
+                                 baseTableName="inv_invoice_def"
+                                 constraintName="fk_invoice_definition_tenant_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="inv_tenant"/>
+
+    </changeSet>
+</databaseChangeLog>

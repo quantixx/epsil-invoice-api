@@ -1,0 +1,54 @@
+{
+    "fluentMethods": true,
+    "relationships": [
+        {
+            "relationshipType": "many-to-one",
+            "relationshipValidateRules": "required",
+            "relationshipName": "tenant",
+            "otherEntityName": "tenant",
+            "otherEntityField": "name"
+        }
+    ],
+    "fields": [
+        {
+            "fieldName": "slug",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required",
+                "minlength",
+                "maxlength"
+            ],
+            "fieldValidateRulesMinlength": 1,
+            "fieldValidateRulesMaxlength": 15
+        },
+        {
+            "fieldName": "name",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required",
+                "maxlength"
+            ],
+            "fieldValidateRulesMaxlength": 50
+        },
+        {
+            "fieldName": "virtual",
+            "fieldType": "Boolean"
+        },
+        {
+            "fieldName": "startsOn",
+            "fieldType": "LocalDate"
+        },
+        {
+            "fieldName": "endsOn",
+            "fieldType": "LocalDate"
+        }
+    ],
+    "changelogDate": "20180126111457",
+    "entityTableName": "inv_event",
+    "dto": "mapstruct",
+    "pagination": "pagination",
+    "service": "serviceClass",
+    "jpaMetamodelFiltering": true,
+    "microserviceName": "invoiceapi",
+    "angularJSSuffix": "invoice"
+}

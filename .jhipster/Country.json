@@ -1,0 +1,99 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "iso2",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required",
+                "maxlength"
+            ],
+            "fieldValidateRulesMaxlength": 2
+        },
+        {
+            "fieldName": "iso3",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required",
+                "maxlength"
+            ],
+            "fieldValidateRulesMaxlength": 3
+        },
+        {
+            "fieldName": "m49",
+            "fieldType": "Integer",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "name",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "officialNameEn",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "officialNameFr",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "dial",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "maxlength"
+            ],
+            "fieldValidateRulesMaxlength": 5
+        },
+        {
+            "fieldName": "continent",
+            "fieldType": "Continent",
+            "fieldValues": "AF,AN,AS,EU,NA,OC,SA",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "tld",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "maxlength"
+            ],
+            "fieldValidateRulesMaxlength": 3
+        },
+        {
+            "fieldName": "flag32",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "flag128",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "latitude",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "longitude",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "zoom",
+            "fieldType": "Integer"
+        }
+    ],
+    "changelogDate": "20180126111503",
+    "javadoc": "iso2 codes are two-letter country codes defined in ISO 3166-1\niso3 codes are three-letter country codes defined in ISO 3166-1\nM.49 is a standard for area codes used by the United Nations for statistical purposes\ndial number to dial for phone numbers\ntld  top-level domains",
+    "entityTableName": "inv_country",
+    "dto": "mapstruct",
+    "pagination": "pagination",
+    "service": "serviceClass",
+    "jpaMetamodelFiltering": true,
+    "microserviceName": "invoiceapi",
+    "angularJSSuffix": "invoice"
+}

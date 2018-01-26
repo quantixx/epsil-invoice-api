@@ -1,0 +1,193 @@
+{
+    "fluentMethods": true,
+    "relationships": [
+        {
+            "relationshipType": "one-to-one",
+            "relationshipName": "linked",
+            "otherEntityName": "invoice",
+            "otherEntityField": "number",
+            "ownerSide": true,
+            "otherEntityRelationshipName": "invoice"
+        },
+        {
+            "relationshipType": "one-to-one",
+            "relationshipValidateRules": "required",
+            "relationshipName": "organisation",
+            "otherEntityName": "organisation",
+            "otherEntityField": "name",
+            "ownerSide": true,
+            "otherEntityRelationshipName": "invoice"
+        },
+        {
+            "relationshipType": "one-to-one",
+            "relationshipName": "quotation",
+            "otherEntityName": "quotation",
+            "otherEntityField": "number",
+            "ownerSide": true,
+            "otherEntityRelationshipName": "invoice"
+        },
+        {
+            "relationshipType": "one-to-one",
+            "relationshipName": "document",
+            "otherEntityName": "document",
+            "otherEntityField": "name",
+            "ownerSide": true,
+            "otherEntityRelationshipName": "invoice"
+        },
+        {
+            "relationshipType": "one-to-many",
+            "relationshipName": "states",
+            "otherEntityName": "invoiceState",
+            "otherEntityRelationshipName": "invoice"
+        },
+        {
+            "relationshipType": "one-to-many",
+            "relationshipName": "lines",
+            "otherEntityName": "invoiceLine",
+            "otherEntityRelationshipName": "invoice"
+        },
+        {
+            "relationshipType": "many-to-one",
+            "relationshipValidateRules": "required",
+            "relationshipName": "language",
+            "otherEntityName": "language",
+            "otherEntityField": "name"
+        },
+        {
+            "relationshipType": "many-to-one",
+            "relationshipValidateRules": "required",
+            "relationshipName": "currency",
+            "otherEntityName": "currency",
+            "otherEntityField": "currency"
+        },
+        {
+            "relationshipType": "many-to-one",
+            "relationshipValidateRules": "required",
+            "relationshipName": "family",
+            "otherEntityName": "family",
+            "otherEntityField": "name"
+        },
+        {
+            "relationshipType": "many-to-one",
+            "relationshipValidateRules": "required",
+            "relationshipName": "tenant",
+            "otherEntityName": "tenant",
+            "otherEntityField": "name"
+        }
+    ],
+    "fields": [
+        {
+            "fieldName": "title",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "maxlength"
+            ],
+            "fieldValidateRulesMaxlength": 50
+        },
+        {
+            "fieldName": "description",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "maxlength"
+            ],
+            "fieldValidateRulesMaxlength": 1024
+        },
+        {
+            "fieldName": "docType",
+            "fieldType": "DocumentType",
+            "fieldValues": "TENANT_LOGO,INVOICE,QUOTATION",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "vatRate",
+            "fieldType": "Float",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "terms",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required",
+                "maxlength"
+            ],
+            "fieldValidateRulesMaxlength": 32
+        },
+        {
+            "fieldName": "penalties",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required",
+                "maxlength"
+            ],
+            "fieldValidateRulesMaxlength": 512
+        },
+        {
+            "fieldName": "number",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "invoiceType",
+            "fieldType": "InvoiceType",
+            "fieldValues": "INVOICE,CREDIT_INVOICE",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "poNumber",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "subTotalBeforeDiscount",
+            "fieldType": "Float"
+        },
+        {
+            "fieldName": "discountRate",
+            "fieldType": "Float"
+        },
+        {
+            "fieldName": "discountAmount",
+            "fieldType": "Float"
+        },
+        {
+            "fieldName": "subTotal",
+            "fieldType": "Float",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "vatAmount",
+            "fieldType": "Float",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "total",
+            "fieldType": "Float",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "additionalInformation",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20180126111509",
+    "entityTableName": "inv_invoice",
+    "dto": "mapstruct",
+    "pagination": "pagination",
+    "service": "serviceClass",
+    "jpaMetamodelFiltering": true,
+    "microserviceName": "invoiceapi",
+    "angularJSSuffix": "invoice"
+}

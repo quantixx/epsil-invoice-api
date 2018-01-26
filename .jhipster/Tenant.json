@@ -1,0 +1,141 @@
+{
+    "fluentMethods": true,
+    "relationships": [
+        {
+            "relationshipType": "one-to-one",
+            "relationshipValidateRules": "required",
+            "relationshipName": "invoiceAddress",
+            "otherEntityName": "address",
+            "otherEntityField": "id",
+            "ownerSide": true,
+            "otherEntityRelationshipName": "tenant"
+        },
+        {
+            "relationshipType": "one-to-one",
+            "relationshipValidateRules": "required",
+            "relationshipName": "bank",
+            "otherEntityName": "bank",
+            "otherEntityField": "bankName",
+            "ownerSide": true,
+            "otherEntityRelationshipName": "tenant"
+        },
+        {
+            "relationshipType": "one-to-one",
+            "relationshipName": "logo",
+            "otherEntityName": "document",
+            "otherEntityField": "name",
+            "ownerSide": true,
+            "otherEntityRelationshipName": "tenant"
+        },
+        {
+            "relationshipType": "one-to-one",
+            "relationshipName": "contact",
+            "otherEntityName": "contact",
+            "otherEntityField": "lastName",
+            "ownerSide": true,
+            "otherEntityRelationshipName": "tenant"
+        },
+        {
+            "relationshipType": "one-to-many",
+            "relationshipName": "events",
+            "otherEntityName": "event",
+            "otherEntityRelationshipName": "tenant"
+        },
+        {
+            "relationshipType": "one-to-many",
+            "relationshipName": "invoices",
+            "otherEntityName": "invoice",
+            "otherEntityRelationshipName": "tenant"
+        },
+        {
+            "relationshipType": "one-to-many",
+            "relationshipName": "invoiceDefinitions",
+            "otherEntityName": "invoiceDefinition",
+            "otherEntityRelationshipName": "tenant"
+        },
+        {
+            "relationshipType": "one-to-many",
+            "relationshipName": "quotations",
+            "otherEntityName": "quotation",
+            "otherEntityRelationshipName": "tenant"
+        },
+        {
+            "relationshipType": "one-to-many",
+            "relationshipName": "quotationDefinitions",
+            "otherEntityName": "quotationDefinition",
+            "otherEntityRelationshipName": "tenant"
+        },
+        {
+            "relationshipType": "one-to-many",
+            "relationshipName": "families",
+            "otherEntityName": "family",
+            "otherEntityRelationshipName": "tenant"
+        }
+    ],
+    "fields": [
+        {
+            "fieldName": "slug",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required",
+                "minlength",
+                "maxlength"
+            ],
+            "fieldValidateRulesMinlength": 1,
+            "fieldValidateRulesMaxlength": 15
+        },
+        {
+            "fieldName": "name",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required",
+                "maxlength"
+            ],
+            "fieldValidateRulesMaxlength": 50
+        },
+        {
+            "fieldName": "companyName",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "description",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "maxlength"
+            ],
+            "fieldValidateRulesMaxlength": 1024
+        },
+        {
+            "fieldName": "vatIdentification",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "businessIdentification",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "businessRegistry",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "businessCode",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "financialYearFrom",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "financialYearTo",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20180126111456",
+    "entityTableName": "inv_tenant",
+    "dto": "mapstruct",
+    "pagination": "pagination",
+    "service": "serviceClass",
+    "jpaMetamodelFiltering": true,
+    "microserviceName": "invoiceapi",
+    "angularJSSuffix": "invoice"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd">
+    <!--
+        Added the constraints for entity Tenant.
+    -->
+    <changeSet id="20180126111456-2" author="jhipster">
+        
+        <addForeignKeyConstraint baseColumnNames="invoice_address_id"
+                                 baseTableName="inv_tenant"
+                                 constraintName="fk_tenant_invoice_address_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="inv_address"/>
+
+        <addForeignKeyConstraint baseColumnNames="bank_id"
+                                 baseTableName="inv_tenant"
+                                 constraintName="fk_tenant_bank_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="inv_bank"/>
+
+        <addForeignKeyConstraint baseColumnNames="logo_id"
+                                 baseTableName="inv_tenant"
+                                 constraintName="fk_tenant_logo_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="inv_document"/>
+
+        <addForeignKeyConstraint baseColumnNames="contact_id"
+                                 baseTableName="inv_tenant"
+                                 constraintName="fk_tenant_contact_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="inv_contact"/>
+
+    </changeSet>
+</databaseChangeLog>
